@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shishirchulliyil
-- 👀 I’m interested in creating interactive UI 
+- 👀 I’m interested in creating interactive UI and Front-End for Web Applications
 - 🌱 I’m currently learning React, GraphQL and Azure
 - 💞️ I’m looking to collaborate on any Front End Web Projects
 - 📫 You can reach me at shishirchandrabose@gmail.com
