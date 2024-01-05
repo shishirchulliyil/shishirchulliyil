@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shishirchulliyil
-- 👀 I’m interested in creating interactive UI and Front-End for Web Applications
-- 🌱 I’m currently learning React, GraphQL and Azure Cloud
-- 💞️ I’m looking to collaborate on any Front-End Web Projects
+- 👀 I’m interested in creating interactive UI and Front-End for applications.
+- 🌱 I have experience working with Javascript, React, Typescript, Nextjs, Angular, CSS/SCSS/SASS, HTML/HTML5, Graphql, Material-UI and AWS Infrastructure.
+- 💞️ I’m looking to collaborate on any Front-End Applications.
 - 📫 You can reach me at shishirchandrabose@gmail.com
 - 🥳 Some of my completed works are below
 -   http://netflix-clone-shishir.surge.sh/
