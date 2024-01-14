@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating interactive UI and Front-End for applications.
 - 🌱 I have experience working with Javascript, React, Typescript, Nextjs, Angular, CSS/SCSS/SASS, HTML/HTML5, Graphql, Material-UI and AWS Infrastructure.
 - 💞️ I’m looking to collaborate on any Front-End Applications.
-- 📫 You can reach me at chulliyilshishir@gmail.com
+- 📫 You can reach me at chulliyilshishir@gmail.com, LinkedIn -> linkedin.com/in/shishirchulliyil/
 - 🥳 Some of my completed works are below
 -   http://netflix-clone-shishir.surge.sh/
 -   https://sunnyside-landingpage-shishir.surge.sh/
