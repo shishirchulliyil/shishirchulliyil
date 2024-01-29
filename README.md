@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Shishir.
+## 👋 Hello, I’m Shishir.
 - 👀 I’m interested in creating interactive UI and Front-End for applications.
 - 🌱 I have experience working with Javascript, React, Typescript, Nextjs, Angular, CSS/SCSS/SASS, HTML/HTML5, Graphql, Material-UI and AWS Infrastructure.
 - 💞️ I’m looking to collaborate on any Front-End Applications.
