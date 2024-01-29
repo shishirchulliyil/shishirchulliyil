@@ -3,12 +3,7 @@
 - 🌱 I have experience working with Javascript, React, Typescript, Nextjs, Angular, CSS/SCSS/SASS, HTML/HTML5, Graphql, Material-UI and AWS Infrastructure.
 - 💞️ I’m looking to collaborate on any Front-End Applications.
 - 📫 You can reach me at chulliyilshishir@gmail.com
-- 🥳 Some of my completed works are below
--   http://netflix-clone-shishir.surge.sh/
--   https://sunnyside-landingpage-shishir.surge.sh/
--   http://airbnb-clone-shishir.surge.sh/
--   http://amazon-clone-shishir.surge.sh/
-
+- 🥳 Open to collaborate in any open source projects.
 
 <!---
 shishirchulliyil/shishirchulliyil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
